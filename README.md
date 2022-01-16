@@ -4,4 +4,4 @@
 
 #cd cybe
 
-#bash zphisher.sh
+#bash.cybe.sh
