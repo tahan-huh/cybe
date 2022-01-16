@@ -4,6 +4,4 @@
 
 #cd cybe
 
-#chorme +x shell
-
-#py.cybe.shell
+#bash zphisher.sh
